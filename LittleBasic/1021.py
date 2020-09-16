@@ -1,0 +1,2 @@
+wordstr = input()
+print(wordstr)
