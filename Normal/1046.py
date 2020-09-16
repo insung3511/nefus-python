@@ -1,0 +1,6 @@
+a,b,c = input().split()
+x = int(a)
+y = int(b)
+z = int(c)
+print(x+y+z)
+print('%.1f' % ((x+y+z)/3))
